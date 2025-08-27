@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Bharat Utsav",
+    "description": "Bharat Utsav is a web platform built with the MERN stack to showcase and celebrate India’s rich cultural festivals and traditions. It provides dynamic event details, visuals, and engaging experiences for users.",
+    "category": "Frontend",
+    "techStack": [ "React.js","MERN", "Responsive Design"],
+    "image": "image.png",
+    "status": "completed",
+    "featured": true,
+    "demoUrl": "https://bharat-utsav.vercel.app",
+    "codeUrl": "https://github.com/shivaramgundoju/Bharat-Utsav.git"
+  },
+  {
+    "id": 6,
+    "title": "Portfolio Website",
+    "description": "This responsive portfolio website built with React, featuring dynamic animations, dark/light mode toggle, and modern design principles.",
+    "category": "Frontend",
+    "techStack": ["React.js", "Tailwind CSS", "JavaScript", "Responsive Design"],
+    "image": "image copy.png",
+    "status": "completed",
+    "featured": false,
+    "demoUrl": "https://my-portfolio-cyan-five-49.vercel.app",
+    "codeUrl": "https://github.com/shivaramgundoju/My-Portfolio.git"
+  }
+]

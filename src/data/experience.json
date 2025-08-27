@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Started CS Journey",
+    "subtitle": "Computer Science Undergraduate",
+    "description": "Began my Computer Science degree, diving into programming fundamentals and discovering my passion for web development. Started with HTML, CSS, and basic programming concepts.",
+    "date": "2023",
+    "category": "education",
+    "icon": "GraduationCap",
+    "skills": ["HTML", "CSS", "Programming Basics"],
+    "status": "in-progress"
+  },
+  {
+    "id": 2,
+    "title": "Frontend Development Mastery",
+    "subtitle": "HTML, CSS & JavaScript",
+    "description": "Mastered modern frontend technologies including responsive design, JavaScript ES6+, and DOM manipulation. Built several interactive web applications and landing pages.",
+    "date": "2023",
+    "category": "skill-development",
+    "icon": "Code2",
+    "skills": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+    "status": "completed"
+  },
+  {
+    "id": 3,
+    "title": "React.js Exploration",
+    "subtitle": "Component-Based Architecture",
+    "description": "Transitioned to React.js, learning component-based architecture, hooks, state management, and modern development practices. Created dynamic user interfaces and SPAs.",
+    "date": "2024",
+    "category": "skill-development", 
+    "icon": "Atom",
+    "skills": ["React.js", "JSX", "Hooks", "Component Design"],
+    "status": "completed"
+  },
+  {
+    "id": 4,
+    "title": "MERN Stack Development",
+    "subtitle": "Full-Stack Web Development",
+    "description": "Mastering full-stack development with the MERN stack. Building complete web applications with MongoDB, Express.js, React.js, and Node.js as an integrated technology stack.",
+    "date": "2024",
+    "category": "skill-development",
+    "icon": "Layers",
+    "skills": ["MERN Stack", "Full-Stack Development", "API Design", "Database Integration"],
+    "status": "in-progress"
+  },
+  {
+    "id": 5,
+    "title": "Data Structures & Algorithms",
+    "subtitle": "Java Programming Focus",
+    "description": "Currently deepening my understanding of DSA using Java. Learning algorithmic problem-solving, time complexity analysis, and implementing various data structures from scratch.",
+    "date": "2025",
+    "category": "skill-development",
+    "icon": "Brain",
+    "skills": ["Java", "Data Structures", "Algorithms", "Problem Solving"],
+    "status": "in-progress"
+  },
+  {
+    "id": 6,
+    "title": "AI Tools Integration",
+    "subtitle": "Modern Development Workflow",
+    "description": "Experimenting with AI-powered development tools like GitHub Copilot and ChatGPT to enhance productivity and code quality. Exploring the future of AI-assisted programming.",
+    "date": "2024",
+    "category": "exploration",
+    "icon": "Sparkles",
+    "skills": ["AI Tools", "GitHub Copilot", "Prompt Engineering", "Automation"],
+    "status": "ongoing"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Java",
+    "category": "backend",
+    "level": 70,
+    "icon": "Coffee",
+    "description": "Object-oriented programming and data structures",
+    "color": "hsl(25, 95%, 53%)"
+  },
+  {
+    "id": 2,
+    "name": "MERN Stack",
+    "category": "backend",
+    "level": 70,
+    "icon": "Layers",
+    "description": "MongoDB, Express.js, React.js, and Node.js full-stack development",
+    "color": "hsl(120, 60%, 50%)"
+  },
+  {
+    "id": 3,
+    "name": "AI Tools",
+    "category": "tools",
+    "level": 55,
+    "icon": "Brain",
+    "description": "ChatGPT, GitHub Copilot, and AI-assisted development",
+    "color": "hsl(280, 100%, 70%)"
+  },
+  {
+    "id": 4,
+    "name": "Git & GitHub",
+    "category": "tools",
+    "level": 75,
+    "icon": "GitBranch",
+    "description": "Version control and collaborative development",
+    "color": "hsl(14, 100%, 57%)"
+  }
+]
